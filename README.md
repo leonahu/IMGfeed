@@ -1,11 +1,10 @@
-# README
+# IMGfeed
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails project of a homepage image feed with Oauth.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 5.0
 
 * System dependencies
 
