@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+
+
+#Device
+gem 'devise', '~> 4.2'
 #Bootstrap
 gem 'bootstrap-sass'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
