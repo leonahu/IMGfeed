@@ -9,6 +9,9 @@ gem 'bootstrap-sass'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
 
+#Paperclip
+gem 'paperclip', '~> 4.2'
+
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
