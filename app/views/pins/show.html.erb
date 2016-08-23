@@ -1,4 +1,5 @@
-<p id="notice"><%= notice %></p>
+
+<%= image_tag @pin.image.url(:medium) %>
 
 <p>
   <strong>Description:</strong>
@@ -11,3 +12,5 @@
 <% if @pin.user == current_user %>
 <% end %>
 <%= link_to 'Back', pins_path %>
+
+<%= image_tag @pin.image.url %>
