@@ -10,13 +10,13 @@ gem 'bootstrap-sass'
 gem 'rails', '~> 5.0.0'
 
 #Paperclip
-gem 'paperclip', '~> 4.2'
+gem "paperclip", "~> 5.0.0"
 
 #Amazon AWS
 gem 'aws-sdk', '~> 2.3'
 
 # Use Puma as the app server
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 3.6.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
