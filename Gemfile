@@ -10,7 +10,7 @@ gem 'bootstrap-sass'
 gem 'rails', '~> 5.0.0'
 
 #Paperclip
-gem "paperclip", "~> 5.0.0"
+gem "paperclip", git: "git://github.com/thoughtbot/paperclip.git"
 
 #Amazon AWS
 gem 'aws-sdk', '~> 2.3'
