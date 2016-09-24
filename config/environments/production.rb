@@ -73,7 +73,7 @@ Rails.application.configure do
 
   #Required for Heroku
   # Note to set this to the actual host
-  config.action_mailer.default_url_options = { host: 'feedimg.heroku.com' }
+  config.action_mailer.default_url_options = { host: 'biblist.herokuapp.com' }
 
 
   # Use a different logger for distributed setups.
